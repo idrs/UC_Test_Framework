@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{D24A3A71-C658-49F4-BF43-DABB7501DB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsecaseTesting", "UsecaseTesting\UsecaseTesting.csproj", "{26D73B35-7E18-4405-A691-89B75D4932D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTesting", "SeleniumTesting\SeleniumTesting.csproj", "{1140E7B9-5D90-42CB-AC80-7D42BCD53660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{8FD020B1-3758-4713-AFEF-A56061A2F67E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://idries.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Prototype\\Prototype.csproj
+		SccProjectName1 = Prototype
+		SccLocalPath1 = Prototype
+		SccProjectUniqueName2 = UsecaseTesting\\UsecaseTesting.csproj
+		SccProjectName2 = UsecaseTesting
+		SccLocalPath2 = UsecaseTesting
+		SccProjectUniqueName3 = SeleniumTesting\\SeleniumTesting.csproj
+		SccProjectName3 = SeleniumTesting
+		SccLocalPath3 = SeleniumTesting
+		SccProjectUniqueName4 = TestConsole\\TestConsole.csproj
+		SccProjectName4 = TestConsole
+		SccLocalPath4 = TestConsole
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24A3A71-C658-49F4-BF43-DABB7501DB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24A3A71-C658-49F4-BF43-DABB7501DB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24A3A71-C658-49F4-BF43-DABB7501DB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24A3A71-C658-49F4-BF43-DABB7501DB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D73B35-7E18-4405-A691-89B75D4932D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D73B35-7E18-4405-A691-89B75D4932D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D73B35-7E18-4405-A691-89B75D4932D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D73B35-7E18-4405-A691-89B75D4932D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1140E7B9-5D90-42CB-AC80-7D42BCD53660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1140E7B9-5D90-42CB-AC80-7D42BCD53660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1140E7B9-5D90-42CB-AC80-7D42BCD53660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1140E7B9-5D90-42CB-AC80-7D42BCD53660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD020B1-3758-4713-AFEF-A56061A2F67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD020B1-3758-4713-AFEF-A56061A2F67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD020B1-3758-4713-AFEF-A56061A2F67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD020B1-3758-4713-AFEF-A56061A2F67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

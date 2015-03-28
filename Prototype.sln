@@ -9,25 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTesting", "Selenium
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{8FD020B1-3758-4713-AFEF-A56061A2F67E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8920706E-F3B3-48E1-87A9-4279229AFBA9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 5
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://idries.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Prototype\\Prototype.csproj
-		SccProjectName1 = Prototype
-		SccLocalPath1 = Prototype
-		SccProjectUniqueName2 = UsecaseTesting\\UsecaseTesting.csproj
-		SccProjectName2 = UsecaseTesting
-		SccLocalPath2 = UsecaseTesting
-		SccProjectUniqueName3 = SeleniumTesting\\SeleniumTesting.csproj
-		SccProjectName3 = SeleniumTesting
-		SccLocalPath3 = SeleniumTesting
-		SccProjectUniqueName4 = TestConsole\\TestConsole.csproj
-		SccProjectName4 = TestConsole
-		SccLocalPath4 = TestConsole
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
